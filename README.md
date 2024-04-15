@@ -12,7 +12,7 @@ I. China und Russland als Imperien (-1900)
 - Russland
     - Mehrheit der russischen Bevölkerung lebt als Bauern auf dem Land
     - Expansionspolitik in Russland führt zur hoher ethnischer Vielfalt
-    - Mehrheit der Russen gehören der Russisch-Orthodoxe Kirche an, wegen ethnischer Vielfalt in Russland sind aber viele andere Religionen vertreten
+    - Mehrheit der Bevölkerung gehört der Russisch-Orthodoxe Kirche an, wegen ethnischer Vielfalt in Russland sind aber viele andere Religionen vertreten
     - Zar als absoluter Herr­scher über Russland. Zar als Begriff kirchlicher Abstammung.
         - Ethnische Vielfalt in Russland schwächt Religiöse Legitimation, aber Adel hat keinen Machtanspruch wie im Westen.
     - 1500-1800 werden in Russland die meisten Bauern in Leibeigenschaft gezwungen
