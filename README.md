@@ -7,7 +7,6 @@ I. China und Russland als Imperien (-1900)
 - Fortschrittliche Hochkultur, Verwaltung und Technik in China
 - Konfuzianismus als ethisch-philosophische Lehre in China
 - Chinesisches Kaiserreich, Vorstellung vom Kaiser als "Sohn des Himmels".
-
 - Mehrheit der Bevölkerung lebt als Bauern auf dem Land
 - Expansionspolitik in Russland führt zur hoher ethnischer Vielfalt
 - Mehrheit der Russen gehören der Russisch-Orthodoxe Kirche an, wegen ethnischer Vielfalt in Russland sind aber viele andere Religionen vertreten
