@@ -38,9 +38,3 @@ IV. Sozialismus in China und Russland im 20. Jahrhundert
 - Kulturrevolution in China und ihre Folgen
 - Reformen unter Deng Xiaoping und die Öffnung Chinas
 - Zerfall der Sowjetunion und das Ende des Sozialismus in Russland
-
-V. Schlussfolgerung
-
-- Zusammenfassung der wichtigsten Entwicklungen
-- Vergleich der Sozialismus in China und Russland
-- Bedeutung der historischen Ereignisse für die heutige Situation</s>
