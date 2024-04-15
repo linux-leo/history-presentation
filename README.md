@@ -8,7 +8,7 @@ I. China und Russland als Imperien
 - Konfuzianismus als ethisch-philosophische Lehre in China
 - Chinesisches Kaiserreich, Vorstellung vom Kaiser als "Sohn des Himmels".
 - Zar als absoluter Herr­scher über Russland. Zar als Begriff kirchlicher Abstammung.
-    - Ethnische Vielfalt schwächt Religiöse Legitimation, aber Adel hat keinen Machtanspruch wie im Westen.
+    - Ethnische Vielfalt in Russland schwächt Religiöse Legitimation, aber Adel hat keinen Machtanspruch wie im Westen.
 
 II. Übergang in das 19. Jahrhundert (1800-1900)
 
