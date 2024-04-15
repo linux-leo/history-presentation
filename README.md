@@ -23,7 +23,12 @@ III. Um 1900: Kommunistische Werte verbreiten sich
 - Ende des Chinesischen Kaiserreichs 1912
 - Revolution in Russland 1917 unter der Führung von Lenin
 - Zusammenarbeit zwischen nationalkonservativer Kuomintang und der kommunistischen Partei Mao Zeodongs in China
-- Bürgerkrieg in Beiden Ländern, in Russland von 1917 bis 1920 in Europa/1921 im Kaukasus/1922 in Ostasien, in China von 1927-1949
+- Bürgerkrieg in Beiden Ländern:
+    -  in Russland von 1917 bis:
+        -  1920 in Europa
+        -  1921 im Kaukasus
+        -  1922 in Ostasien,
+    -  in China von 1927 bis 1949
 
 IV. Sozialismus in China und Russland im 20. Jahrhundert
 
