@@ -2,8 +2,8 @@
 
 Zeitspanne (hauptsächlich 1900-1991):
 
-* Übergang in das 19 Jahrhundert in Russland/China (1800-1900)
-    * Marxismus als Vorbild für zukünftige Staatsformen
+* Übergang in das 19 Jahrhundert (1800-1900)
+    * Marxismus als Vorbild für zukünftige Staatsformen in Russland/China
     * Handelsbeziehungen zwischen China und Großbritannien
         * Opiumkrieg
     * Russland durch Rückständigkeit geschwächt, China durch Opiumkrieg 
