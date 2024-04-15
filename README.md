@@ -2,14 +2,22 @@
 
 Zeitspanne: 1900-1991
 
-I. Übergang in das 19. Jahrhundert (1800-1900)
+I. China und Russland als Imperien
+
+- Fortschrittliche Hochkultur, Verwaltung und Technik in China
+- Konfuzianismus als ethisch-philosophische Lehre in China
+- Chinesisches Kaiserreich, Vorstellung vom Kaiser als "Sohn des Himmels".
+- Zar als absoluter Herr­scher über Russland. Zar als Begriff kirchlicher Abstammung.
+    - Ethnische Vielfalt schwächt Religiöse Legitimation, aber Adel hat keinen Machtanspruch wie im Westen.
+
+II. Übergang in das 19. Jahrhundert (1800-1900)
 
 - Marxismus als Vorbild für zukünftige Staatsformen in Russland und China
 - Handelsbeziehungen zwischen China und Großbritannien
     - Opiumkrieg
 - Russland durch Rückständigkeit und China durch den Opiumkrieg geschwächt.
 
-II. Um 1900: Kommunistische Werte verbreiten sich
+III. Um 1900: Kommunistische Werte verbreiten sich
 
 - Aufstände in Russland und die erste Verfassung
 - Ende des Chinesischen Kaiserreichs 1912
@@ -22,7 +30,7 @@ II. Um 1900: Kommunistische Werte verbreiten sich
         -  1922 in Ostasien,
     -  in China von 1927 bis 1949
 
-III. Sozialismus in China und Russland im 20. Jahrhundert
+IV. Sozialismus in China und Russland im 20. Jahrhundert
 
 - Gründung der Sowjetunion 1922
 - Aufstieg von Mao Zedong und Gründung der Volksrepublik China 1949
@@ -31,7 +39,7 @@ III. Sozialismus in China und Russland im 20. Jahrhundert
 - Reformen unter Deng Xiaoping und die Öffnung Chinas
 - Zerfall der Sowjetunion und das Ende des Sozialismus in Russland
 
-IV. Schlussfolgerung
+V. Schlussfolgerung
 
 - Zusammenfassung der wichtigsten Entwicklungen
 - Vergleich der Sozialismus in China und Russland
