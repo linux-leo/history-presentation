@@ -7,12 +7,12 @@ I. China und Russland als Imperien (-1900)
 - Fortschrittliche Hochkultur, Verwaltung und Technik in China
 - Konfuzianismus als ethisch-philosophische Lehre in China
 - Chinesisches Kaiserreich, Vorstellung vom Kaiser als "Sohn des Himmels".
-- Mehrheit der Bevölkerung lebt als Bauern auf dem Land
+- Mehrheit der russischen Bevölkerung lebt als Bauern auf dem Land
 - Expansionspolitik in Russland führt zur hoher ethnischer Vielfalt
 - Mehrheit der Russen gehören der Russisch-Orthodoxe Kirche an, wegen ethnischer Vielfalt in Russland sind aber viele andere Religionen vertreten
 - Zar als absoluter Herr­scher über Russland. Zar als Begriff kirchlicher Abstammung.
     - Ethnische Vielfalt in Russland schwächt Religiöse Legitimation, aber Adel hat keinen Machtanspruch wie im Westen.
-- 1500-1800 werden die meisten Bauern in Leibeigenschaft gezwungen
+- 1500-1800 werden in Russland die meisten Bauern in Leibeigenschaft gezwungen
 
 II. Übergang in das 19. Jahrhundert (1800-1900)
 
