@@ -1,9 +1,5 @@
 # Entwicklung des Sozialismus in 🇨🇳 und 🇷🇺
 
-Zeitspanne (hauptsächlich 1900-1991):
-
-Aufbau der Inhaltsangabe:
-
 I. Einleitung
 
 - Ankündigung des Themas: Entwicklung des Sozialismus in China und Russland
