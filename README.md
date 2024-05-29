@@ -25,24 +25,18 @@
      - Maos Konzept der Unterschiede unter den Menschen
 
 4. **Umsetzung**
+   - Russische Revolution und die Etablierung der Sowjetmacht
+   - Chinesische Revolution und die Gründung der Volksrepublik China
    - Strukturelle Unterschiede zwischen KPdSU und CCP
    - Sozialistische primitive Akkumulation
      - Wirtschaftspolitiken
      - Auswirkungen auf agrarische Gesellschaften
 
-5. **Fallstudien**
-   - Russische Revolution und die Etablierung der Sowjetmacht
-     - Schlüsselereignisse und Politiken
-     - Rolle des Leninismus
-   - Chinesische Revolution und die Gründung der Volksrepublik China
-     - Schlüsselereignisse und Politiken
-     - Rolle des Maoismus
-
-6. **Kritik und zeitgenössische Relevanz**
+5. **Kritik und zeitgenössische Relevanz**
    - Kritik am Leninismus
    - Kritik am Maoismus
    - Einfluss auf zeitgenössische kommunistische Bewegungen
 
-7. **Schlussfolgerung**
+6. **Schlussfolgerung**
    - Zusammenfassung der wichtigsten Unterschiede und Gemeinsamkeiten
    - Abschließende Gedanken zur Entwicklung marxistischer Ideologien
