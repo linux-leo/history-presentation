@@ -1,47 +1,61 @@
-# Entwicklung des Sozialismus in 🇨🇳 und 🇷🇺
+# Entwicklung des Marxismus-Leninismus und des Maoismus.
 
-Zeitspanne: hauptsächlich 1900-1991, Einleitung bietet nur historischen Kontext
+1. **Überblick**
+   - Marxismus und seine Entwicklung
+   - Überblick über den Leninismus
+   - Überblick über Mao Tse-tungs Gedanken
 
-I. China und Russland als Imperien (-1900)
+2. **Gemeinsame Merkmale des Leninismus und der Mao-Tse-tung-Ideologie**
+   - Revolutionäre demokratische Diktatur
+     - Lenins revolutionäre demokratische Diktatur des Proletariats und der Bauern
+     - Maos Volksdemokratische Diktatur
+     - Vergleichende Analyse
+   - Führung durch eine Avantgardepartei
+     - Lenins Theorie der Avantgardepartei
+     - Maos Anpassung in China
+     - Vergleichende Analyse
+   - Primitive Akkumulation im Sozialismus
+     - Lenins Perspektive
+     - Maos Anwendung
+     - Vergleichende Analyse
 
-- China
-    - Fortschrittliche Hochkultur, Verwaltung und Technik
-    - Konfuzianismus als ethisch-philosophische Lehre
-    - Chinesisches Kaiserreich, Vorstellung vom Kaiser als "Sohn des Himmels".
+3. **Unterschiede zwischen Leninismus und Mao-Tse-tung-Ideologie**
+   - Betonung des nationalen Erbes
+     - Lenins Fokus auf Internationalismus
+     - Maos Betonung der historischen und kulturellen Besonderheiten Chinas
+   - Atheismus versus Selbstreformation und Geistesschulung
+     - Lenins Atheismus
+     - Maos Ansatz zur Selbstreformation und Geistesschulung
+   - Unterschiede unter den Menschen
+     - Stalins Interpretation des Klassenkampfes und der Staatsmacht
+     - Maos Konzept der Unterschiede unter den Menschen
 
-- Russland
-    - Mehrheit der russischen Bevölkerung lebt als Bauern auf dem Land
-    - Expansionspolitik in Russland führt zur hoher ethnischer Vielfalt
-    - Mehrheit der Bevölkerung gehört der Russisch-Orthodoxe Kirche an, wegen ethnischer Vielfalt in Russland sind aber viele andere Religionen vertreten
-    - Zar als absoluter Herr­scher über Russland. Zar als Begriff kirchlicher Abstammung.
-        - Ethnische Vielfalt in Russland schwächt Religiöse Legitimation, aber Adel hat keinen Machtanspruch wie im Westen.
-    - 1500-1800 werden in Russland die meisten Bauern in Leibeigenschaft gezwungen
+4. **Detaillierte vergleichende Analyse**
+   - Revolutionäre demokratische Diktatur
+     - Theoretische Grundlagen
+     - Praktische Umsetzungen
+     - Auswirkungen auf den sozialistischen Übergang
+   - Avantgardepartei und ihre Organe
+     - Strukturelle Unterschiede
+     - Betriebsdynamik
+   - Sozialistische primitive Akkumulation
+     - Wirtschaftspolitiken
+     - Auswirkungen auf agrarische Gesellschaften
 
-II. Übergang in das 19. Jahrhundert (1800-1900)
+5. **Fallstudien**
+   - Russische Revolution und die Etablierung der Sowjetmacht
+     - Schlüsselereignisse und Politiken
+     - Rolle des Leninismus
+   - Chinesische Revolution und die Gründung der Volksrepublik China
+     - Schlüsselereignisse und Politiken
+     - Rolle des Maoismus
 
-- Marxismus als Vorbild für zukünftige Staatsformen in Russland und China
-- Handelsbeziehungen zwischen China und Großbritannien
-    - Opiumkrieg
-- Russland durch Rückständigkeit und China durch den Opiumkrieg geschwächt.
+6. **Kritik und zeitgenössische Relevanz**
+   - Kritik am Leninismus
+   - Kritik am Maoismus
+   - Moderne Anwendungen und Relevanz
+   - Einfluss auf zeitgenössische kommunistische Bewegungen
 
-III. Um 1900: Kommunistische Werte verbreiten sich
-
-- Aufstände in Russland und die erste Verfassung
-- Ende des Chinesischen Kaiserreichs 1912
-- Revolution in Russland 1917 unter der Führung von Lenin
-- Zusammenarbeit zwischen nationalkonservativer Kuomintang und der kommunistischen Partei Mao Zeodongs in China
-- Bürgerkrieg in Beiden Ländern:
-    -  in Russland von 1917 bis:
-        -  1920 in Europa
-        -  1921 im Kaukasus
-        -  1922 in Ostasien,
-    -  in China von 1927 bis 1949
-
-IV. Sozialismus in China und Russland im 20. Jahrhundert
-
-- Gründung der Sowjetunion 1922
-- Aufstieg von Mao Zedong und Gründung der Volksrepublik China 1949
-- Stalinismus in der Sowjetunion und dessen Auswirkungen
-- Kulturrevolution in China und ihre Folgen
-- Reformen unter Deng Xiaoping und die Öffnung Chinas
-- Zerfall der Sowjetunion und das Ende des Sozialismus in Russland
+7. **Schlussfolgerung**
+   - Zusammenfassung der wichtigsten Unterschiede und Gemeinsamkeiten
+   - Abschließende Gedanken zur Entwicklung marxistischer Ideologien
