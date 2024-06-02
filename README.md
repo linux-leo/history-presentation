@@ -12,9 +12,9 @@
      - Lenins revolutionäre demokratische Diktatur des Proletariats und der Bauern
      - Maos Volksdemokratische Diktatur
    - Führung durch eine Avantgardepartei (KPdSU, CCP)
-   - Primitive Akkumulation im Sozialismus
+   - Ursprüngliche Akkumulation im Sozialismus
      - Lenins Perspektive
-     - Maos Anwendung
+     - Interpretation anhand von Maos Politik
 
 3. **Unterschiede zwischen Leninismus und Mao-Tse-tung-Ideologie**
      - Lenins Fokus auf Internationalismus
