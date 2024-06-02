@@ -12,7 +12,7 @@
      - Lenins revolutionäre demokratische Diktatur des Proletariats und der Bauern
      - Maos Volksdemokratische Diktatur
    - Führung durch eine Avantgardepartei (KPdSU, CCP)
-   - Ursprüngliche Akkumulation im Sozialismus
+   - Ursprüngliche Akkumulation
      - Lenins Perspektive
      - Interpretation anhand von Maos Politik
 
