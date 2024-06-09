@@ -33,7 +33,3 @@
    - Kritik am Leninismus
    - Kritik am Maoismus
    - Einfluss auf zeitgenössische kommunistische Bewegungen
-
-7. **Schlussfolgerung**
-   - Zusammenfassung der wichtigsten Unterschiede und Gemeinsamkeiten
-   - Abschließende Gedanken zur Entwicklung marxistischer Ideologien
