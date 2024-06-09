@@ -3,11 +3,13 @@
 # Inhaltsverzeichnis
 
 1. **Überblick**
-   - Marxismus und seine Entwicklung
-   - Überblick über den Leninismus
-   - Überblick über Mao Tse-tungs Gedanken
+   - Marxismus als Grundlage beider Ideologien
+   - Marximus-Leninismus als Weiterentwicklung des Marxismus.
+   - Maoismus als Anwendung, aber nicht Weiterentwicklung des Marxismus-Leninismus
+      - Warum gilt der Maoismus nicht als Weiterentwicklung des Marximus-Leninismus?
+      - Warum ist der Maoismus keine Weiterentwicklung/Anwendung des originalen Marximus?
 
-2. **Gemeinsame Merkmale des Leninismus und der Mao-Tse-tung-Ideologie**
+2. **Gemeinsame Merkmale des Leninismus und des Maoismus**
    - Revolutionäre demokratische Diktatur
      - Lenins revolutionäre demokratische Diktatur des Proletariats und der Bauern
      - Maos Volksdemokratische Diktatur
