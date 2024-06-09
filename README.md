@@ -12,25 +12,19 @@
      - Lenins revolutionäre demokratische Diktatur des Proletariats und der Bauern
      - Maos Volksdemokratische Diktatur
    - Führung durch eine Avantgardepartei (KPdSU, CCP)
-   - Ursprüngliche Akkumulation
-     - Lenins Perspektive
-     - Interpretation anhand von Maos Politik
+   - Das Konzept der Ursprüngliche Akkumulation
 
 3. **Unterschiede zwischen Leninismus und Mao-Tse-tung-Ideologie**
-     - Lenins Fokus auf Internationalismus
-     - Maos Betonung der historischen und kulturellen Besonderheiten Chinas
-     - Lenins Atheismus
-     - Maos Ansatz zur Selbstreformation und Geistesschulung
-     - Lenins Interpretation des Klassenkampfes und der Staatsmacht
-     - Maos Konzept der Unterschiede unter den Menschen
+     - Lenins Internationalismus im Vergleich zu Maos Nationalismus
+     - Lenins Atheismus im Vergleich zu Maos Ansatz zur Selbstreformation und Geistesschulung
+     - Lenins Klassenkampf im Vergleich zu Maos Aktzeptanz der Unterschiede unter den Menschen
 
 4. **Umsetzung**
    - Russische Revolution und die Etablierung der Sowjetmacht
    - Chinesische Revolution und die Gründung der Volksrepublik China
    - Strukturelle Unterschiede zwischen KPdSU und CCP
-   - Sozialistische primitive Akkumulation
-     - Wirtschaftspolitiken
-     - Auswirkungen auf agrarische Gesellschaften
+   - Wirtschaftspolitiken
+   - Auswirkungen auf agrarische Gesellschaften
 
 5. **Kritik und zeitgenössische Relevanz**
    - Kritik am Leninismus
