@@ -7,10 +7,8 @@
    - Marxismus als Grundlage beider Ideologien
       - Das Leben in einer Klassengesellschaft
       - Das Konzept der Ursprüngliche Akkumulation
-
    - Russische Revolution und die Etablierung der Sowjetmacht
    - Chinesische Revolution und die Gründung der Volksrepublik China
-
    - Marximus-Leninismus als Weiterentwicklung des Marxismus.
    - Maoismus als Anwendung, aber nicht Weiterentwicklung des Marxismus-Leninismus
       - Warum gilt der Maoismus nicht als Weiterentwicklung des Marximus-Leninismus?
@@ -26,7 +24,7 @@
      - Lenins revolutionäre demokratische Diktatur des Proletariats und der Bauern
      - Maos Volksdemokratische Diktatur
    - Führung durch eine Avantgardepartei (KPdSU, CCP)
-   - Unterschiede in der Umsetzung de Ursprünglichen Akkumulation
+   - Unterschiede in der Umsetzung der Ursprünglichen Akkumulation
 
 
 6. **Kritik und zeitgenössische Relevanz**
