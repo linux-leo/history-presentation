@@ -9,8 +9,8 @@
 
 2. **Entwicklung und Gemeinsamkeiten beider Ideologien**
    - Marxismus als Grundlage beider Ideologien
-      - Das Leben in einer Klassengesellschaft
-      - Das Konzept der Ursprüngliche Akkumulation
+      - Der Weg von einer Klassengesellschaft zu einer Klassenlosen Gesellschaft
+      - Das Konzept der Ursprüngliche Akkumulation als Alternative zur Kapitalistischen Akkumulation
    - Marximus-Leninismus als Weiterentwicklung des Marxismus.
    - Maoismus als Anwendung, aber nicht Weiterentwicklung des Marxismus-Leninismus
       - Warum gilt der Maoismus nicht als Weiterentwicklung des Marximus-Leninismus?
