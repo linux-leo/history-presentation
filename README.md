@@ -1,6 +1,6 @@
 # Entwicklung des Marxismus-Leninismus und des Maoismus.
 
-# Inhaltsverzeichnis
+## Inhaltsverzeichnis
 
 1. **Historischer Überlick**
    - Die Entwicklung der Gesellschaftslehre des Marxismus
