@@ -39,8 +39,6 @@
 - Dezember 1922: Offizieller Zusammenschluss zur UdSSR
 - Lenin als erster Vorsitzender des Rates der Volkskommissare
 
----
-
 ## 3. Marxismus-Leninismus
 
 ### Lenins Interpretation des Marxismus
